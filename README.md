@@ -108,4 +108,4 @@ How do you begin managing your database after installing MySQL?
 A) Start by installing additional plugins
 B) Launch MySQL Workbench and connect to your MySQL Server
 C) Run mysqladmin start in the terminal
-D) Restart your computer to activate MySQL
+D) Restart your computer to activate MySQL 
